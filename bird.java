@@ -1,8 +1,6 @@
-package 备抚;
-
 import java.io.*;
 
-public class 巨公货部部 {
+public class bird {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

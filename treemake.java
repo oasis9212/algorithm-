@@ -1,10 +1,9 @@
-package Æ®¸®±¸Á¶;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class Æ®¸®Â¥´Â¹ý {
+public class treemake {
 	
 	static int[] ary=new int[1];
 
@@ -38,4 +37,4 @@ public class Æ®¸®Â¥´Â¹ý {
 
 }
 // http://edu.goorm.io/learn/lecture/11220/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9C%84%ED%81%B4%EB%A6%AC-%EB%B9%84%ED%83%80%EC%95%8C%EA%B3%A0-%EC%8B%9C%EC%A6%8C1/lesson/488077/03%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EC%95%8C%ED%8C%8C%EB%B2%B3-%ED%8A%B8%EB%A6%AC-%EC%9E%A5%EB%82%9C%EA%B0%90-2
-// ±»ÀÌ Æ®¸®±¸Á¶·Î »ý°¢¾ÈÇÏ°í ´ÙÀÌ³»¹Í ÇÁ·Î±×·¡¹ÖÀ¸·Î ±¸»óÇß´Ù. 
+// ï¿½ï¿½ï¿½ï¿½ Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½Ì³ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Î±×·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ß´ï¿½. 
