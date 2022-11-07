@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Stack;
 
 public class networkGrah {
-
+	// https://school.programmers.co.kr/learn/courses/30/lessons/43162
 	public static void main(String[] args) {
 
 		int n = 3;
